@@ -19,7 +19,7 @@ setfeature(!feature1)
         }
    return(
     <>
-         <div className="main-head py-2 d-none d-lg-block">
+         <div className="main-head py-3 d-none d-lg-block">
         <div className="container d-flex justify-content-between align-items-center align-content-center pb-2">
         <img src=" https://jupiterx.com/wp-content/uploads/2021/12/jupiter-x2-logo.svg"/>
 <div className="d-flex ">

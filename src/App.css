@@ -165,7 +165,7 @@ background-color: var(--bg-green);
 }
 .txt-size{
   color:var(--bg-blue);
-  font-size:20px;
+  font-size:30px;
   font-weight: 800;
 }
 .title{
@@ -810,6 +810,9 @@ position: relative;
 .cat-price{
   display: flex;
   flex-direction: column-reverse;
+}
+.txt-size{
+  font-size: 20px;
 }
 }
 @media  screen and (max-width:380px) {

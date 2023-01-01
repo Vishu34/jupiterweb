@@ -21,7 +21,7 @@ function App() {
   return (
     <>
      
-    <TopNavbar/>
+    {/* <TopNavbar/> */}
    <Section1/>
    <Section2/>
    <Section3/>

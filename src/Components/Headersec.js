@@ -1,5 +1,5 @@
 import React from "react";
-
+import CountUp from 'react-countup';
 
 const Headersec=()=>{
     return(
@@ -21,16 +21,16 @@ const Headersec=()=>{
                      <div class="icon icon-primary me-2 me-md-0 mb-4">
     <span class="fas fa-brain"></span>
 </div>
-<span class="counter txt-size d-block">12031 <span className="txt-size fs-4">+</span></span>
-<span class="h5 text-gray">Lines of Code</span>
+<span class="counter txt-size d-block"><CountUp end={160000} duration={2}/><span className="txt-size ">+</span></span>
+<span class="h5 text-gray">Websites Built</span>
                     
                      </div>
-                     <div className="mx-2">
+                     <div className="mx-4">
                      <div class="icon icon-primary me-2 me-md-0 mb-4">
     <span class="fas fa-brain"></span>
 </div>
-<span class="counter txt-size d-block">12031<span className="txt-size">K</span></span>
-<span class="h5 text-gray">Lines of Code</span>
+<span class="counter txt-size d-block"><CountUp   end={4.8} decimals={1} duration={2}/><span className="txt-size">K</span></span>
+<span class="h5 text-gray">5-Start Reviews</span>
                     
                      </div>
                      </div>
