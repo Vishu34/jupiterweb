@@ -4,7 +4,7 @@ import React from "react";
 const Headersec=()=>{
     return(
         <>
-           <div className="container Header-section ">
+           <div className="  container-lg Header-section ">
             <div className="row my-5">
             
                 <div className="col-md-6 col ">

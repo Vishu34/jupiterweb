@@ -3,7 +3,7 @@ import React from "react";
 const Product = () => {
   return (
     <>
-    <div className="container">
+    <div className="container-lg">
          <div className="row">
              <div className="col">
                 <div className="d-flex flex-column justify-content-center align-items-center align-content-center">
@@ -27,7 +27,7 @@ const Product = () => {
              </div>
          </div>
     </div>
-      <div className="container">
+      <div className="container-lg">
         <div className="row my-5">
           <div className="col">
             <div className="row">

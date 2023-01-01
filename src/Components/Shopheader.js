@@ -4,7 +4,7 @@ import { FaPlay } from "react-icons/fa";
 const Shopheader=()=>{
     return(
         <>
-<div className="container">
+<div className="container-lg">
      <div className="row my-5">
         <div className="col">
             

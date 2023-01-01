@@ -3,7 +3,7 @@ import React from "react";
 const Readymadeweb=()=>{
     return(
         <>
-<div className="container w-50">
+<div className="container-lg w-50">
 <div className="row ">
     <div className="col my-5">
         <div className="">

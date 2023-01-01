@@ -4,7 +4,7 @@ import { FaPlay } from "react-icons/fa";
 const Heavyfeature=()=>{
     return(
         <>
-<div className="container ">
+<div className="container-lg ">
    <div className="row">
        <div className="col">
             <div className="row">

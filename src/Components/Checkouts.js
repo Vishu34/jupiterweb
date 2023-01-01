@@ -3,7 +3,7 @@ import React from "react";
 const Checkouts=()=>{
     return(
         <>
-<div className="container">
+<div className="container-lg">
      <div className="row my-5">
         <div className="col">
             

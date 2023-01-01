@@ -4,7 +4,7 @@ import Checkouts from "./Checkouts";
 const Imgdata=()=>{
     return(
         <>
-<div className="container">
+<div className="container-lg">
      <div className="row">
         <div className="col">
             <div className="row">

@@ -3,7 +3,7 @@ import React from "react";
 const Buytool=()=>{
     return(
         <>
-<div className="container  w-50">
+<div className="container-lg  w-50">
         <div className="row">
             <div className="col">
                 <div className="row">

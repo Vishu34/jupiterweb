@@ -3,7 +3,7 @@ import React from "react";
 const Imgcontent=()=>{
     return(
         <>
-<div className="container">
+<div className="container-lg">
     <div className="row">
         <div className="col">
             <div className="row">

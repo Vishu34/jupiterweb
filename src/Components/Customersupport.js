@@ -5,7 +5,7 @@ const Customersupport=()=>{
     return(
         <>
         <Swipper/>
-<div className="container">
+<div className="container-lg">
     <div className="row">
         <div className="col">
               <div className="row my-4">

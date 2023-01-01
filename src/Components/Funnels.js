@@ -4,8 +4,8 @@ import { FaPlay } from "react-icons/fa";
 const Funnels=()=>{
     return(
         <>
-<div className="container ">
-    <div className="row">
+<div className="container-lg ">
+    <div className="row my-4">
         <div className="col ">
             <div className="d-flex flex-column align-items-center align-content-center">
                 
